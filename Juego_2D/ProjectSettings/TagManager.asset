@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Suelo
   - Morir
+  - Checkpoint
   layers:
   - Default
   - TransparentFX
